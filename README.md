@@ -1,0 +1,2 @@
+Hey there! Join me here as I take on the 30-day cloud challenge with the #CozyCloudCrew. I'v been studying for the AWS CCP on my own for some time and scheduled my exam using the free retake promo. 
+Day 1-2 focused on setting up a free-tier account with a platform of your choice- I chose AWS. Be mindful when setting up a free account, you'll still have to input credit card info however, you are able to set up budget alerts to prevent unexpected charges.

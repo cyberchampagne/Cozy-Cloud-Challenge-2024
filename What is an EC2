@@ -1,0 +1,3 @@
+Day 3-4 focused on Elastic Compute Cloud instances. 
+In AWS, EC2 instances are virtual servers that are launched into the cloud. The main benefits EC2 offer are scalability, reliability, compatability, and cost efficiency. With this service, organizations are able to use what they need and when they need it as well as cut out many upfront costs. EC2 instances also provide security features like security groups and IAM roles. 
+This youtube video was helpful getting a good rundown on the service https://www.youtube.com/watch?v=eaicwmnSdCs.
